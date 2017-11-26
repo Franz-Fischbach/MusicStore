@@ -1,11 +1,11 @@
-using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using MusicStore.Models;
 using MusicStore.ViewModels;
+using System.Linq;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace MusicStore.Controllers
 {
